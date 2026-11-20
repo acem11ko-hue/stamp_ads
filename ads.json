@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "ownAdPercent": 100,
+  "ownAdPercent": 0,
   "ads": [
     {
       "image": "https://raw.githubusercontent.com/acem11ko-hue/stamp_ads/main/banner2.png",
