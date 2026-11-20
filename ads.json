@@ -3,7 +3,7 @@
   "ownAdPercent": 100,
   "ads": [
     {
-      "image": "https://raw.githubusercontent.com/acem11ko-hue/stamp_ads/main/banner1.png",
+      "image": "https://raw.githubusercontent.com/acem11ko-hue/stamp_ads/main/banner2.png",
       "_linkAndroid": "https://play.google.com/store/apps/details?id=패키지이름",
       "linkIos": "https://apps.apple.com/kr/app/id6829649704",
       "weight": 1
