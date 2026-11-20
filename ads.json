@@ -4,7 +4,8 @@
   "ads": [
     {
       "image": "https://raw.githubusercontent.com/acem11ko-hue/stamp_ads/main/banner1.png",
-      "link": "https://내서비스주소.com",
+      "_linkAndroid": "https://play.google.com/store/apps/details?id=패키지이름",
+      "linkIos": "https://apps.apple.com/kr/app/idid6829649704",
       "weight": 1
     }
   ]
