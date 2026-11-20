@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "ownAdPercent": 0,
+  "ads": [
+    {
+      "image": "https://raw.githubusercontent.com/acem11ko-hue/stamp_ads/main/banner1.png",
+      "link": "https://내서비스주소.com",
+      "weight": 1
+    }
+  ]
+}
